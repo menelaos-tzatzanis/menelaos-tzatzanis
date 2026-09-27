@@ -1,5 +1,7 @@
 # Menelaos Tzatzanis
 
+[English](README.md) · [Ελληνικά](README_GR.md)
+
 I build **Windows desktop applications focused on client management, scheduling, records, financial workflows, and practical business tools**.
 
 My goal is to create software that is clear, useful and easy to work with in real day-to-day environments — without unnecessary complexity.
