@@ -13,7 +13,7 @@ My projects are mainly focused on:
 - Client and customer management
 - Appointments and scheduling
 - Client history and records
-- Services and business workflows
+- Products, services and business workflows
 - Revenue and financial tracking
 - Notes, documents and reporting
 - Backup, export and local data management
@@ -21,11 +21,11 @@ My projects are mainly focused on:
 
 Most of my desktop applications follow a **local-first** approach and are designed to work normally without depending on a cloud account, remote database or continuous internet connection.
 
-They are designed for **Windows PCs and Windows tablets**, with **English and Greek** interface support.
+They are designed for **Windows PCs and Windows tablets**, with **English and Greek interface support**.
 
-For future commercial releases, the intended model is simple: **one-time purchase, local installation, and no ongoing subscription required to continue using the purchased version**.
+For future commercial releases, the intended model is simple: **one-time purchase, local installation, and no mandatory ongoing subscription to continue using the purchased version**.
 
-Depending on the product and user needs, additional optional features or tailored functionality may also be added over time.
+Depending on the product and the user's needs, additional optional features or tailored functionality may also be added over time.
 
 ---
 
@@ -43,9 +43,9 @@ It brings together client management, scheduling, session history, attendance, n
 
 ### [Ordinox Desk](https://github.com/menelaos-tzatzanis/ordinox-desk)
 
-A general-purpose client and business management desktop application for small businesses.
+A general-purpose local-first Windows application for client and small-business management.
 
-It combines client records, appointments, services, revenue information, reminders, history and backup tools in a practical local desktop workflow.
+It combines client records, appointments, services, revenue information, reminders, history and backup tools in a practical desktop workflow.
 
 **Focus:** client management and everyday small-business organization.
 
@@ -53,11 +53,11 @@ It combines client records, appointments, services, revenue information, reminde
 
 ### [Ordinox Desk Lite](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
 
-A lightweight client and business management application designed around optical-store workflows.
+A lightweight local-first Windows application for client management, products or services, history, pricing and revenue tracking across different types of small businesses.
 
-It includes client records, optical prescription information, visit history, services, revenue tools and local backup/import functionality.
+The optical-store workflow shown in the project is one example configuration, while the core application can be adapted to different business needs.
 
-**Focus:** optical businesses, client records and service history.
+**Focus:** practical client and small-business management.
 
 ---
 
@@ -65,9 +65,9 @@ It includes client records, optical prescription information, visit history, ser
 
 I am interested in building practical desktop software that can adapt to different types of businesses and professional workflows.
 
-The core idea is not only to create a client list, but to bring together the information and actions that a user needs around each client — appointments, records, services, notes, history, finance and other useful tools.
+The core idea is not simply to create a client list, but to bring together the information and actions that a user needs around each client — appointments, records, products or services, notes, history, financial information and other useful tools.
 
-Future projects may target additional professions or include optional features based on the needs of the people using them.
+Future projects may target additional professions and types of businesses or include optional features based on the needs of the people using them.
 
 ---
 
@@ -89,7 +89,7 @@ I also use AI-assisted development tools as part of my workflow for code analysi
 
 ## Contact
 
-For business enquiries or questions about my projects, please use the **email contact available on my GitHub profile**.
+For business enquiries, project information or questions about my applications, please use the **email contact available on my GitHub profile**.
 
 ---
 
