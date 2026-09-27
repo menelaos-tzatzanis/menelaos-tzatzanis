@@ -16,80 +16,65 @@ My work is not limited to one software category. The focus is on useful tools, c
 
 Explore the screenshots and open a project for its full presentation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [MyMediaManager](https://github.com/menelaos-tzatzanis/My-Media-Manager)
 
-<h3><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">MyMediaManager</a></h3>
+**Photos, videos and audio — one local library.**
 
-<p><strong>Photos, videos and audio — one local library.</strong></p>
+[![MyMediaManager library with media thumbnails, albums, tags and favorites](https://raw.githubusercontent.com/menelaos-tzatzanis/My-Media-Manager/main/assets/screenshots/01-all-media.png)](https://github.com/menelaos-tzatzanis/My-Media-Manager)
 
-<a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/My-Media-Manager/main/assets/screenshots/01-all-media.png" alt="MyMediaManager library with media thumbnails, albums, tags and favorites" width="420">
-</a>
+Organize media with albums and tags, review suggested offline face matches, search with Daphne and import directly from a phone.
 
-<p>Organize media with albums and tags, review offline face matches, search with Daphne and import directly from a phone.</p>
+Keep files in their existing folders as **Linked media**, or store copies inside the application as **Managed media**.
 
-<p>Linked or Managed files, photo editing, optimized copies, playlists, slideshow and export.</p>
+Photo editing, optimized copies, playlists, slideshow and export complete the workflow.
 
-<p><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager"><strong>Explore MyMediaManager →</strong></a></p>
+**[Explore MyMediaManager →](https://github.com/menelaos-tzatzanis/My-Media-Manager)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">ORDINOX Desk Therapist</a></h3>
+### [ORDINOX Desk Therapist](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)
 
-<p><strong>A focused workspace for therapy practices.</strong></p>
+**A focused workspace for therapy practices.**
 
-<a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST/main/assets/screenshots/02-calendar.png" alt="ORDINOX Desk Therapist calendar and session scheduling interface" width="420">
-</a>
+[![ORDINOX Desk Therapist calendar and session scheduling interface](https://raw.githubusercontent.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST/main/assets/screenshots/02-calendar.png)](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)
 
-<p>Bring client records, recurring sessions, attendance, notes, documents and financial information into one Windows application.</p>
+Bring client records, recurring sessions, attendance, notes, documents and financial information into one Windows application.
 
-<p>Includes practice statistics, exports, backup and optional planning tools.</p>
+Includes practice statistics, exports, backup and optional planning tools.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST"><strong>Explore Desk Therapist →</strong></a></p>
+**[Explore Desk Therapist →](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk">Ordinox Desk</a></h3>
+### [Ordinox Desk](https://github.com/menelaos-tzatzanis/ordinox-desk)
 
-<p><strong>Everyday client and small-business organization.</strong></p>
+**Everyday client and small-business organization.**
 
-<a href="https://github.com/menelaos-tzatzanis/ordinox-desk">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk/main/assets/screenshots/calendar.png" alt="Ordinox Desk calendar and appointment-management interface" width="420">
-</a>
+[![Ordinox Desk calendar and appointment-management interface](https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk/main/assets/screenshots/calendar.png)](https://github.com/menelaos-tzatzanis/ordinox-desk)
 
-<p>Keep appointments, client records, services, reminders, history and revenue information together.</p>
+Keep appointments, client records, services, reminders, history and revenue information together.
 
-<p>A local-first Windows application for practical day-to-day business workflows.</p>
+A local-first Windows application for practical day-to-day business workflows.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk"><strong>Explore Ordinox Desk →</strong></a></p>
+**[Explore Ordinox Desk →](https://github.com/menelaos-tzatzanis/ordinox-desk)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">Ordinox Desk Lite</a></h3>
+### [Ordinox Desk Lite](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
 
-<p><strong>A lighter approach to client and business records.</strong></p>
+**A lighter approach to client and business records.**
 
-<a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk-lite/main/assets/screenshots/clients.png" alt="Ordinox Desk Lite client-management interface" width="420">
-</a>
+[![Ordinox Desk Lite client-management interface](https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk-lite/main/assets/screenshots/clients.png)](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
 
-<p>Organize clients, products or services, prices, history and revenue in a focused desktop environment.</p>
+Organize clients, products or services, prices, history and revenue in a focused desktop environment.
 
-<p>The optical-store setup shown in the showcase is an example configuration, not the only intended use.</p>
+The optical-store setup shown in the showcase is an example configuration, not the only intended use.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite"><strong>Explore Desk Lite →</strong></a></p>
+**[Explore Desk Lite →](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)**
 
-</td>
-</tr>
-</table>
+---
+
+## About These Showcases
 
 These repositories are **product showcases**, with screenshots, feature descriptions and project information. The production source code of the featured applications is maintained privately.
 
