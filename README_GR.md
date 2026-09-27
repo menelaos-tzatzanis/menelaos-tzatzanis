@@ -16,80 +16,65 @@
 
 Δείτε τις εικόνες και ανοίξτε την εφαρμογή που σας ενδιαφέρει για την αναλυτική παρουσίασή της.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [MyMediaManager](https://github.com/menelaos-tzatzanis/My-Media-Manager)
 
-<h3><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">MyMediaManager</a></h3>
+**Φωτογραφίες, βίντεο και ήχος — μία τοπική βιβλιοθήκη.**
 
-<p><strong>Φωτογραφίες, βίντεο και ήχος — μία τοπική βιβλιοθήκη.</strong></p>
+[![Η βιβλιοθήκη του MyMediaManager με φωτογραφίες, άλμπουμ, ετικέτες και αγαπημένα](https://raw.githubusercontent.com/menelaos-tzatzanis/My-Media-Manager/main/assets/screenshots/01-all-media.png)](https://github.com/menelaos-tzatzanis/My-Media-Manager)
 
-<a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/My-Media-Manager/main/assets/screenshots/01-all-media.png" alt="Η βιβλιοθήκη του MyMediaManager με φωτογραφίες, άλμπουμ, ετικέτες και αγαπημένα" width="420">
-</a>
+Οργάνωση με άλμπουμ και ετικέτες, υποβοηθούμενη τοπική αναγνώριση προσώπων με έλεγχο των προτάσεων από τον χρήστη, αναζήτηση με τη Daphne και εισαγωγή από κινητό.
 
-<p>Οργάνωση με άλμπουμ και ετικέτες, υποβοηθούμενη τοπική αναγνώριση προσώπων, αναζήτηση με τη Daphne και εισαγωγή από κινητό.</p>
+Τα αρχεία μπορούν να παραμένουν στους υπάρχοντες φακέλους τους ως **Linked media** ή να αποθηκεύονται ως αντίγραφα μέσα στην εφαρμογή ως **Managed media**.
 
-<p>Αρχεία Linked ή Managed, επεξεργασία φωτογραφιών, μικρότερα αντίγραφα, λίστες αναπαραγωγής, slideshow και εξαγωγές.</p>
+Η επεξεργασία φωτογραφιών, τα μικρότερα αντίγραφα, οι λίστες αναπαραγωγής, το slideshow και οι εξαγωγές συμπληρώνουν τη διαχείριση της συλλογής.
 
-<p><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager"><strong>Δείτε το MyMediaManager →</strong></a></p>
+**[Δείτε το MyMediaManager →](https://github.com/menelaos-tzatzanis/My-Media-Manager)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">ORDINOX Desk Therapist</a></h3>
+### [ORDINOX Desk Therapist](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)
 
-<p><strong>Ένα οργανωμένο περιβάλλον για θεραπευτικά γραφεία.</strong></p>
+**Ένα οργανωμένο περιβάλλον για θεραπευτικά γραφεία.**
 
-<a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST/main/assets/screenshots/02-calendar.png" alt="Το ημερολόγιο και ο προγραμματισμός συνεδριών του ORDINOX Desk Therapist" width="420">
-</a>
+[![Το ημερολόγιο και ο προγραμματισμός συνεδριών του ORDINOX Desk Therapist](https://raw.githubusercontent.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST/main/assets/screenshots/02-calendar.png)](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)
 
-<p>Πελατολόγιο, επαναλαμβανόμενες συνεδρίες, παρακολούθηση παρουσιών, σημειώσεις, έγγραφα και οικονομικά στοιχεία σε μία εφαρμογή Windows.</p>
+Πελατολόγιο, επαναλαμβανόμενες συνεδρίες, παρακολούθηση παρουσιών, σημειώσεις, έγγραφα και οικονομικά στοιχεία σε μία εφαρμογή Windows.
 
-<p>Περιλαμβάνει στατιστικά γραφείου, εξαγωγές, αντίγραφα ασφαλείας και προαιρετικά εργαλεία σχεδιασμού θεραπείας.</p>
+Περιλαμβάνει στατιστικά γραφείου, εξαγωγές, αντίγραφα ασφαλείας και προαιρετικά εργαλεία σχεδιασμού θεραπείας.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST"><strong>Δείτε το Desk Therapist →</strong></a></p>
+**[Δείτε το Desk Therapist →](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk">Ordinox Desk</a></h3>
+### [Ordinox Desk](https://github.com/menelaos-tzatzanis/ordinox-desk)
 
-<p><strong>Καθημερινή οργάνωση πελατών και μικρών επιχειρήσεων.</strong></p>
+**Καθημερινή οργάνωση πελατών και μικρών επιχειρήσεων.**
 
-<a href="https://github.com/menelaos-tzatzanis/ordinox-desk">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk/main/assets/screenshots/calendar.png" alt="Το ημερολόγιο και η διαχείριση ραντεβού του Ordinox Desk" width="420">
-</a>
+[![Το ημερολόγιο και η διαχείριση ραντεβού του Ordinox Desk](https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk/main/assets/screenshots/calendar.png)](https://github.com/menelaos-tzatzanis/ordinox-desk)
 
-<p>Ραντεβού, στοιχεία πελατών, υπηρεσίες, υπενθυμίσεις, ιστορικό και πληροφορίες εσόδων συγκεντρωμένα σε ένα περιβάλλον.</p>
+Ραντεβού, στοιχεία πελατών, υπηρεσίες, υπενθυμίσεις, ιστορικό και πληροφορίες εσόδων συγκεντρωμένα σε ένα περιβάλλον.
 
-<p>Μια local-first εφαρμογή Windows για τις πρακτικές ανάγκες της καθημερινής επαγγελματικής δραστηριότητας.</p>
+Μια local-first εφαρμογή Windows για τις πρακτικές ανάγκες της καθημερινής επαγγελματικής δραστηριότητας.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk"><strong>Δείτε το Ordinox Desk →</strong></a></p>
+**[Δείτε το Ordinox Desk →](https://github.com/menelaos-tzatzanis/ordinox-desk)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">Ordinox Desk Lite</a></h3>
+### [Ordinox Desk Lite](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
 
-<p><strong>Μια πιο απλή προσέγγιση στην οργάνωση πελατών και επιχειρηματικών στοιχείων.</strong></p>
+**Μια πιο απλή προσέγγιση στην οργάνωση πελατών και επιχειρηματικών στοιχείων.**
 
-<a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">
-<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk-lite/main/assets/screenshots/clients.png" alt="Το περιβάλλον διαχείρισης πελατών του Ordinox Desk Lite" width="420">
-</a>
+[![Το περιβάλλον διαχείρισης πελατών του Ordinox Desk Lite](https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk-lite/main/assets/screenshots/clients.png)](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
 
-<p>Οργάνωση πελατών, προϊόντων ή υπηρεσιών, τιμών, ιστορικού και εσόδων σε ένα εστιασμένο περιβάλλον εργασίας.</p>
+Οργάνωση πελατών, προϊόντων ή υπηρεσιών, τιμών, ιστορικού και εσόδων σε ένα εστιασμένο περιβάλλον εργασίας.
 
-<p>Η διαμόρφωση οπτικού καταστήματος που παρουσιάζεται είναι ένα παράδειγμα χρήσης, όχι ο μοναδικός σκοπός της εφαρμογής.</p>
+Η διαμόρφωση οπτικού καταστήματος που παρουσιάζεται είναι ένα παράδειγμα χρήσης, όχι ο μοναδικός σκοπός της εφαρμογής.
 
-<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite"><strong>Δείτε το Desk Lite →</strong></a></p>
+**[Δείτε το Desk Lite →](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)**
 
-</td>
-</tr>
-</table>
+---
+
+## Σχετικά με τις Παρουσιάσεις
 
 Τα παραπάνω repositories λειτουργούν ως **παρουσιάσεις προϊόντων**, με εικόνες, περιγραφές λειτουργιών και πληροφορίες για κάθε εφαρμογή. Ο πηγαίος κώδικας των εφαρμογών διατηρείται ιδιωτικός.
 
