@@ -2,155 +2,153 @@
 
 [English](README.md) · [Ελληνικά](README_GR.md)
 
-I build **practical Windows desktop applications for media organization, client and business management, scheduling, records and specialized everyday workflows**.
+### Windows desktop software for everyday work and personal organization.
 
-My goal is to create software that is clear, useful and easy to work with in real day-to-day environments — without unnecessary complexity.
+I build practical applications for **media organization, client management, scheduling and other professional or personal workflows**.
 
-My projects are not limited to one type of software. Some focus on professional and small-business workflows, while others are designed around personal media, local data organization and other desktop use cases.
+My work is not limited to one software category. The focus is on useful tools, clear interfaces and practical control over local data.
 
-## What I build
-
-My projects can include areas such as:
-
-- Photo, video and audio organization
-- Local media libraries
-- Client and customer management
-- Appointments and scheduling
-- Client history and records
-- Products, services and business workflows
-- Revenue and financial tracking
-- Notes, documents and reporting
-- Search, filtering and organization tools
-- Backup, export and local data management
-- Specialized tools for different professional or personal workflows
-
-Many of my desktop applications follow a **local-first** approach and are designed to work normally without depending on a cloud account, remote database or continuous internet connection.
-
-My current work is primarily focused on **Windows desktop applications**, including desktop PCs, laptops and, where appropriate, Windows tablets.
-
-Language support depends on the individual product. Some applications include **English and Greek interface support**, while others currently use a single primary interface language.
-
-For future commercial releases, the intended model is generally straightforward: **local installation, one-time purchase where appropriate, and no mandatory ongoing subscription simply to continue using the purchased version**.
-
-Depending on the product and the user's needs, additional optional features or tailored functionality may also be developed.
+**Product enquiries:** [mtzatzanis@hotmail.com](mailto:mtzatzanis@hotmail.com)
 
 ---
 
-## Featured Projects
+## Selected Applications
 
-### [MyMediaManager](https://github.com/menelaos-tzatzanis/My-Media-Manager)
+Explore the screenshots and open a project for its full presentation.
 
-A local-first Windows desktop media manager for organizing photos, videos and audio in one structured library.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-It combines albums, nested albums, tags, favorites, People / Faces, assisted offline face recognition, advanced search, local phone import, photo tools, playlists, slideshow, export, backup and library-maintenance features.
+<h3><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">MyMediaManager</a></h3>
 
-The application supports both Linked media, which can remain in its existing folders, and Managed media stored inside the application's own library.
+<p><strong>Photos, videos and audio — one local library.</strong></p>
 
-**Focus:** personal media organization, local media ownership and practical library management.
+<a href="https://github.com/menelaos-tzatzanis/My-Media-Manager">
+<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/My-Media-Manager/main/assets/screenshots/01-all-media.png" alt="MyMediaManager library with media thumbnails, albums, tags and favorites" width="420">
+</a>
 
----
+<p>Organize media with albums and tags, review offline face matches, search with Daphne and import directly from a phone.</p>
 
-### [ORDINOX Desk Therapist](https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST)
+<p>Linked or Managed files, photo editing, optimized copies, playlists, slideshow and export.</p>
 
-A local-first Windows desktop practice management application for therapists and mental-health professionals.
+<p><a href="https://github.com/menelaos-tzatzanis/My-Media-Manager"><strong>Explore MyMediaManager →</strong></a></p>
 
-It brings together client management, scheduling, session history, attendance, notes, documents, financial tracking, statistics, treatment planning, exports, backup and other practice tools in one focused desktop environment.
+</td>
+<td width="50%" valign="top">
 
-**Focus:** therapy practices, client records, scheduling and practice organization.
+<h3><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">ORDINOX Desk Therapist</a></h3>
 
----
+<p><strong>A focused workspace for therapy practices.</strong></p>
 
-### [Ordinox Desk](https://github.com/menelaos-tzatzanis/ordinox-desk)
+<a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST">
+<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST/main/assets/screenshots/02-calendar.png" alt="ORDINOX Desk Therapist calendar and session scheduling interface" width="420">
+</a>
 
-A general-purpose local-first Windows application for client and small-business management.
+<p>Bring client records, recurring sessions, attendance, notes, documents and financial information into one Windows application.</p>
 
-It combines client records, appointments, services, revenue information, reminders, history and backup tools in a practical desktop workflow.
+<p>Includes practice statistics, exports, backup and optional planning tools.</p>
 
-**Focus:** client management and everyday small-business organization.
+<p><a href="https://github.com/menelaos-tzatzanis/ORDINOX-Desk-THERAPIST"><strong>Explore Desk Therapist →</strong></a></p>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [Ordinox Desk Lite](https://github.com/menelaos-tzatzanis/ordinox-desk-lite)
+<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk">Ordinox Desk</a></h3>
 
-A lightweight local-first Windows application for client management, products or services, history, pricing and revenue tracking across different types of small businesses.
+<p><strong>Everyday client and small-business organization.</strong></p>
 
-The optical-store workflow shown in the project is one example configuration, while the core application can be adapted to different business needs.
+<a href="https://github.com/menelaos-tzatzanis/ordinox-desk">
+<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk/main/assets/screenshots/calendar.png" alt="Ordinox Desk calendar and appointment-management interface" width="420">
+</a>
 
-**Focus:** practical client and small-business management.
+<p>Keep appointments, client records, services, reminders, history and revenue information together.</p>
 
----
+<p>A local-first Windows application for practical day-to-day business workflows.</p>
 
-## Product Direction
+<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk"><strong>Explore Ordinox Desk →</strong></a></p>
 
-I am interested in building practical desktop software around real workflows rather than limiting my work to one software category.
+</td>
+<td width="50%" valign="top">
 
-Some projects focus on professional or business organization, while others explore areas such as personal media management, local file workflows and specialized desktop tools.
+<h3><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">Ordinox Desk Lite</a></h3>
 
-A recurring idea across many of these projects is to bring related information and actions together in one clear environment — whether that means clients, appointments and records, or photos, videos, audio, albums, tags and search.
+<p><strong>A lighter approach to client and business records.</strong></p>
 
-Future projects may target additional professions, personal workflows or other desktop use cases.
+<a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite">
+<img src="https://raw.githubusercontent.com/menelaos-tzatzanis/ordinox-desk-lite/main/assets/screenshots/clients.png" alt="Ordinox Desk Lite client-management interface" width="420">
+</a>
 
----
+<p>Organize clients, products or services, prices, history and revenue in a focused desktop environment.</p>
 
-## Technology
+<p>The optical-store setup shown in the showcase is an example configuration, not the only intended use.</p>
 
-Depending on the project, I work with technologies such as:
+<p><a href="https://github.com/menelaos-tzatzanis/ordinox-desk-lite"><strong>Explore Desk Lite →</strong></a></p>
 
-- Tauri
-- Rust
-- SQLite
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-- Local media-processing tools
-- Windows desktop packaging and installers
+</td>
+</tr>
+</table>
 
-I also use AI-assisted development tools as part of my workflow for code analysis, implementation, debugging, testing and review, combined with manual verification and product decisions.
+These repositories are **product showcases**, with screenshots, feature descriptions and project information. The production source code of the featured applications is maintained privately.
 
----
-
-## Development Approach
-
-My development process is generally incremental.
-
-I prefer to:
-
-- Understand the existing behavior first
-- Make focused changes
-- Test affected workflows
-- Review possible side effects
-- Protect existing data and functionality
-- Avoid unnecessary large rewrites
-- Improve usability while preserving reliability
-
-This approach is especially important in desktop applications that manage local user data.
+Each showcase explains its own workflows, demonstration material and current project status.
 
 ---
 
-## Portfolio Repositories
+## What Connects My Work
 
-The public repositories linked from this profile are primarily **product showcases**.
+**Practical organization.** Related information and actions belong together, whether they concern clients and appointments or photos, videos and audio.
 
-For commercial or production applications, the complete source code is generally maintained privately.
+**Local-first workflows.** Many of my applications manage normal user data locally, without requiring a cloud account or a continuous Internet connection for core use.
 
-Public showcase repositories may contain:
+**Focused development.** I work incrementally, with attention to usability, data handling and preserving existing functionality.
 
-- Product documentation
-- Screenshots
-- Feature explanations
-- Technical information
-- Privacy and demo-data notes
-- Project status
+The applications are developed for Windows. Language support and suitability for different device types, including Windows tablets, depend on the individual product.
 
-They do not necessarily contain the full production source code.
+---
+
+## Technology & Development
+
+Depending on the project, I work with:
+
+**Tauri · Rust · SQLite · React · TypeScript · JavaScript · HTML · CSS**
+
+My work also includes local media-processing tools, data import and export, backup workflows and Windows desktop packaging.
+
+AI-assisted development tools are part of my workflow, alongside manual verification, code review, testing and product decisions.
+
+<details>
+<summary><strong>More about my development approach and product direction</strong></summary>
+
+### Development Approach
+
+I prefer to understand existing behavior before making changes, implement focused improvements and test the affected workflows.
+
+Preserving user data and avoiding unnecessary rewrites are important parts of the process.
+
+### Product Direction
+
+My projects span professional tools, small-business applications, personal media organization and other desktop use cases.
+
+Optional features or tailored functionality may be developed according to the needs of a particular product or workflow.
+
+### Commercial Direction
+
+For future commercial releases, the intended approach is local installation and, where appropriate, a one-time purchase without a mandatory ongoing subscription to continue using the purchased version.
+
+Availability, supported features and commercial terms will be specified for each product.
+
+</details>
 
 ---
 
 ## Contact
 
-For business enquiries, project information or questions about my applications, please use the **email contact available on my GitHub profile**.
+For product information, business enquiries or project discussions:
+
+**[mtzatzanis@hotmail.com](mailto:mtzatzanis@hotmail.com)**
 
 ---
 
