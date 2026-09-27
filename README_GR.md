@@ -1,4 +1,4 @@
-# Menelaos Tzatzanis
+# Μενέλαος Τζατζάνης
 
 [English](README.md) · [Ελληνικά](README_GR.md)
 
